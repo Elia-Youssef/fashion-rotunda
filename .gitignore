@@ -1,0 +1,61 @@
+# Unreal Engine generated output
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Releases/
+Saved/
+StagedBuilds/
+
+# This public repository is a source and architecture showcase
+Content/
+Config/DefaultEditor.ini
+
+# Generated project and IDE files
+.idea/
+.vs/
+.vscode/
+*.DotSettings.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.user
+
+# Compiled and packaged artifacts
+*.dll
+*.dmp
+*.exe
+*.exp
+*.lib
+*.obj
+*.pak
+*.pdb
+*.pch
+*.sarif
+*.target
+*.tmp
+*.ucas
+*.utoc
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.cer
+*.crt
+*.der
+*.jks
+*.key
+*.keystore
+*.mobileprovision
+*.p12
+*.pem
+*.pfx
+
+# Operating-system metadata
+.DS_Store
+Desktop.ini
+Thumbs.db
